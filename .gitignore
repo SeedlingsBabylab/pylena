@@ -1,0 +1,5 @@
+*.csv
+.idea
+tests/.ipynb_checkpoints
+*.pyc
+build
